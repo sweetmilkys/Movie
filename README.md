@@ -18,8 +18,8 @@ iOS / Android Movie Discovery App built with React Native.
   Fast, reliable, and secure dependency management.
 
   ```
-  brew install yarn
-  brew upgrade yarn
+  $ brew install yarn
+  $ brew upgrade yarn
   ```
 
 - Create-react-app
@@ -27,7 +27,7 @@ iOS / Android Movie Discovery App built with React Native.
   Set up a modern web app by running one command.
 
   ```
-  npx create-react-app
+  $ npx create-react-app
   ```
 
 - prop-types
