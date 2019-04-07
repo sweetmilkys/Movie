@@ -30,11 +30,18 @@ iOS / Android Movie Discovery App built with React Native.
   $ npx create-react-app
   ```
 
-- prop-types
+- Prop-types
 
   Runtime type checking for React props and similar objects.
 
   ```
-  $ npm install --save prop-types
   $ yarn add prop-types
+  ```
+
+- React-lines-ellipsis
+
+  Simple multiline ellipsis component for React.JS
+
+  ```
+  $ yarn add react-lines-ellipsis
   ```
